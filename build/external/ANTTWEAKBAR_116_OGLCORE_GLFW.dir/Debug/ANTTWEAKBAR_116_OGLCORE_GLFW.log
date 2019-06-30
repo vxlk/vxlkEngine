@@ -1,0 +1,30 @@
+﻿  Building Custom Rule C:/Users/small/Desktop/ogl-master/external/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/small/Desktop/ogl-master/build/external/CMakeFiles/generate.stamp is up-to-date.
+  LoadOGL.cpp
+  LoadOGLCore.cpp
+  TwColors.cpp
+  TwBar.cpp
+  TwFonts.cpp
+  TwMgr.cpp
+  TwOpenGL.cpp
+  TwOpenGLCore.cpp
+  TwPrecomp.cpp
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6225,40): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6226,39): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6227,37): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6228,37): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6229,43): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6230,42): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6231,45): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6232,46): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6233,39): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6234,40): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6235,42): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6236,37): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6237,40): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6239,43): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6252,45): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6258,44): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+C:\Users\small\Desktop\ogl-master\external\AntTweakBar-1.16\src\TwMgr.cpp(6267,53): warning C4302:  'type cast': truncation from 'LPSTR' to 'WORD'
+  TwEventGLFW.c
+  ANTTWEAKBAR_116_OGLCORE_GLFW.vcxproj -> C:\Users\small\Desktop\ogl-master\build\external\Debug\ANTTWEAKBAR_116_OGLCORE_GLFW.lib

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/small/Desktop/ogl-master/external/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/small/Desktop/ogl-master/build/external/CMakeFiles/generate.stamp is up-to-date.
+  glew.c
+  GLEW_1130.vcxproj -> C:\Users\small\Desktop\ogl-master\build\external\Debug\GLEW_1130.lib

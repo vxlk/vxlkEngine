@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/small/Desktop/ogl-master/external/glfw-3.1.2/tests/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/small/Desktop/ogl-master/build/external/glfw-3.1.2/tests/CMakeFiles/generate.stamp is up-to-date.
+  events.c
+  getopt.c
+  events.vcxproj -> C:\Users\small\Desktop\ogl-master\build\external\glfw-3.1.2\tests\Debug\events.exe

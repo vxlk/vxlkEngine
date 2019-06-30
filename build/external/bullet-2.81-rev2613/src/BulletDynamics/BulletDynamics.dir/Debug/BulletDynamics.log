@@ -1,0 +1,32 @@
+﻿  Building Custom Rule C:/Users/small/Desktop/ogl-master/external/bullet-2.81-rev2613/src/BulletDynamics/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/small/Desktop/ogl-master/build/external/bullet-2.81-rev2613/src/BulletDynamics/CMakeFiles/generate.stamp is up-to-date.
+  btKinematicCharacterController.cpp
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\Character\btKinematicCharacterController.cpp(133,22): warning C4305:  '=': truncation from 'double' to 'btScalar'
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\Character\btKinematicCharacterController.cpp(144,22): warning C4305:  '=': truncation from 'double' to 'btScalar'
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(860,21): warning C4244:  '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(905,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(965,13): warning C4244:  '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(967,8): warning C4244:  '=': conversion from 'double' to 'btScalar', possible loss of data
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  Bullet-C-API.cpp
+  btRaycastVehicle.cpp
+  btWheelInfo.cpp
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359:  'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.cpp)
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics/ConstraintSolver/btContactConstraint.h(25,28): warning C4359:  'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\Dynamics\btDiscreteDynamicsWorld.cpp)
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics/ConstraintSolver/btContactConstraint.h(25,28): warning C4359:  'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletDynamics\Vehicle\btRaycastVehicle.cpp)
+  BulletDynamics.vcxproj -> C:\Users\small\Desktop\ogl-master\build\external\bullet-2.81-rev2613\src\BulletDynamics\Debug\BulletDynamics.lib

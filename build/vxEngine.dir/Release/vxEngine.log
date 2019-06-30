@@ -1,0 +1,21 @@
+﻿  Shader.cpp
+  Texture.cpp
+  World.cpp
+C:\Users\small\Desktop\vxEngine\build\src\Rendering\Texture.h(46,13): warning C4154:  deletion of an array expression; conversion to pointer supplied (compiling source file src\Rendering\World.cpp)
+C:\Users\small\Desktop\vxEngine\build\src\Rendering\Texture.h(46,13): warning C4154:  deletion of an array expression; conversion to pointer supplied (compiling source file src\Rendering\Texture.cpp)
+src\Rendering\Texture.cpp(5,9): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+src\Rendering\Texture.cpp(11,10): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+src\Rendering\Texture.cpp(66,10): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+src\Rendering\Shader.cpp(50,9): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+src\Rendering\Shader.cpp(98,9): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Texture.cpp(185) : warning C4715: 'Texture::loadIntoGPU': not all control paths return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\World.cpp(7) : error C4716: 'World::init': must return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Texture.cpp(192) : error C4716: 'getUniform': must return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(126) : error C4716: 'Shaders::GLSLShaderManager::addVertexShader': must return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(130) : error C4716: 'Shaders::GLSLShaderManager::addFragmentShader': must return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(134) : error C4716: 'Shaders::GLSLShaderManager::compileShader': must return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(64) : warning C4715: 'Shaders::GLSLShaderManager::FragmentShaderGLSL::compileShader': not all control paths return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(112) : warning C4715: 'Shaders::GLSLShaderManager::VertexShaderGLSL::compileShader': not all control paths return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(91) : warning C4715: 'Shaders::GLSLShaderManager::VertexShaderGLSL::loadShader': not all control paths return a value
+src\Rendering\Shader.cpp(98,9): warning C4477: C:\Users\small\Desktop\vxEngine\build\src\Rendering\Shader.cpp(43) : warning C4715: 'Shaders::GLSLShaderManager::FragmentShaderGLSL::loadShader': not all control paths return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.

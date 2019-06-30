@@ -1,0 +1,31 @@
+﻿  Building Custom Rule C:/Users/small/Desktop/ogl-master/external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/small/Desktop/ogl-master/build/external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeFiles/generate.stamp is up-to-date.
+  btSoftBody.cpp
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(914,41): warning C4838:  conversion from 'T' to 'const int' requires a narrowing conversion
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(914,41): warning C4838:         with
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(914,41): warning C4838:         [
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(914,41): warning C4838:             T=unsigned int
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(914,41): warning C4838:         ]
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(915,24): warning C4838:  conversion from 'T' to 'const int' requires a narrowing conversion
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(915,24): warning C4838:         with
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(915,24): warning C4838:         [
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(915,24): warning C4838:             T=unsigned int
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(915,24): warning C4838:         ]
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916,24): warning C4838:  conversion from 'T' to 'const int' requires a narrowing conversion
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916,24): warning C4838:         with
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916,24): warning C4838:         [
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916,24): warning C4838:             T=unsigned int
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916,24): warning C4838:         ]
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3322,47): warning C4244:  '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3323,47): warning C4244:  '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3347,48): warning C4244:  '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3368,49): warning C4244:  '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\small\Desktop\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3392,38): warning C4244:  '=': conversion from '__int64' to 'int', possible loss of data
+  BulletSoftBody.vcxproj -> C:\Users\small\Desktop\ogl-master\build\external\bullet-2.81-rev2613\src\BulletSoftBody\Debug\BulletSoftBody.lib
